@@ -1,6 +1,6 @@
 {
   "name": "@owensdoug/message-ts",
-  "version": "0.0.8",
+  "version": "0.0.0",
   "scripts": {
     "initialize": "npm install && npm run build",
     "remove-git-tags-local": "git tag -d $(git tag -l)",
